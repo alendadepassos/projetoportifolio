@@ -1,0 +1,69 @@
+/* limpando formatações padrão*/
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+/* formatações gerais*/
+body{
+	font-family: 'Courier New', monospace;
+	font-size: 1em;
+	background: #e6e6e6;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link, a:visited{
+	color: #FFF;
+}
+
+a:hover{
+	text-decoration: none;
+	color: #ff9900;
+	background: #FFF;
+}
+
+/* cabeçalho */
+#cabecalho{
+	background: #ff9900;
+	height: 80px;
+}
+
+#logo{
+	float: left;
+	font: 50px bold;
+	padding-top: 10px;
+}
+
+#menu{
+	float: right;
+	padding: 5px;
+	padding-top: 40px;
+}
+
+#corpo{
+	border: 1px solid grey;
+	margin-left: 2%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 67%;
+	float: left;
+}
+
+#lateral{
+	border: 1px solid grey;
+	margin-right: 2%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 23%;
+	float: right;
+}
+
+#rodape{
+	clear: both;
+	text-align: center;
+	padding: 15px;
+	background: #CCC;
+}
