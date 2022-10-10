@@ -14,5 +14,7 @@ Este projeto consiste no desenvolvimento e aprimoramento das minhas habilidades 
 
 0.0.2 - Atualização das cores e melhoria da area de apresentação de conteudo e barra lateral com bordas arrendondadas, além do inicio do registro com o arquivo README.md.
 
+0.0.3 - Construidos os prototipos das telas:sobre mim, contatos e projetos, correção da separação dos elementos html seguindo boas praticas, além da inclusão de links no menu lateral e um pdf do meu curriculo na tela sobre mim.
+
 ### Execução
 - Clone o repositório para sua máquina e execute o arquivo index.hmtl
