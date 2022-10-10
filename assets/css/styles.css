@@ -6,7 +6,7 @@ body{
 
 /* formatações gerais*/
 body{
-	font-family: 'Courier New', monospace;
+	font-family: 'Lato', sans-serif;
 	font-size: 1em;
 	background: #368cb4;
 }
@@ -23,6 +23,20 @@ a:hover{
 	text-decoration: none;
 	color: #a1722c;
 	background: #FFF;
+}
+
+p {
+	padding: 0;
+    margin-bottom: 12px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    color: #666;
+}
+
+h2 {
+	font-family: 'Courier New', monospace;
 }
 
 /* cabeçalho */
@@ -89,4 +103,5 @@ a:hover{
 	padding: 15px;
 	background: #CCC;
 	float: bottom;
+	font-family: 'Courier New', monospace;
 }
