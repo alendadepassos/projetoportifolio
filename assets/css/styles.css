@@ -44,27 +44,45 @@ a:hover{
 	padding-top: 40px;
 	padding-right: 10px;
 }
-
+/* corpo */
 #corpo{
 	border: 1px solid grey;
  	margin: 1%;
-	width: 65%;
+	width: 75%;
 	float: left;
 	background: #fff;
  	padding: 20px;
  	border-radius: 10px;
 }
 
+#pdfs{
+	width: 80%;
+	height: 900px;
+}
+/* menu lateral */
 #lateral{
 	border: 1px solid grey;
 	margin: 1%;
-	width: 24%;
+	width: 14%;
 	float: right;
 	background: #fff;
 	padding: 20px;
 	border-radius: 10px;
 }
 
+#iconesgitlaterais{
+	width: 95%;
+	height: 95%;
+	padding: 10px;
+}
+
+#iconeslinkedinlaterais{
+	width: 75%;
+	height: 75%;
+	padding: 10px;
+	padding-left: 30px;
+}
+/* rodapé */
 #rodape{
 	clear: both;
 	text-align: center;
